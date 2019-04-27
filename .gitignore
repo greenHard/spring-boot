@@ -1,2 +1,9 @@
-/.idea
-/tomcat
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+.mvn/
+mvnw
+mvnw.cmd
+target
