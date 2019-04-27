@@ -7,16 +7,10 @@
 	<artifactId>spring-boot-admin-demo</artifactId>
 	<packaging>war</packaging>
 	<version>1.0-SNAPSHOT</version>
-	<!-- TODO project name  -->
+
 	<name>spring-boot-admin-demo</name>
 	<description>spring-boot-admin-demo</description>
 
-	<!-- TODO
-		<organization>
-		<name>company name</name>
-		<url>company url</url>
-		</organization>
-	-->
 
 	<licenses>
 		<license>
@@ -114,12 +108,6 @@
 				</excludes>
 			</testResource>
 		</testResources>
-		<plugins>
-			<plugin>
-				<groupId>org.mortbay.jetty</groupId>
-				<artifactId>maven-jetty-plugin</artifactId>
-			</plugin>
-		</plugins>
 	</build>
 
 	<properties>
